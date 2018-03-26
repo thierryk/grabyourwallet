@@ -1,0 +1,18 @@
+{{ $featured_image := .Params.featured_image }}
+{{ if $featured_image }}
+  {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
+  {{ $featured_image := (trim $featured_image "/") | absURL }}
+  <header>
+    {{ partial "site-navigation.html" . }}
+      <h1>{{ .Title | default .Site.Title }}</h1>
+      {{ with .Params.description  }}
+        <h2>
+          {{ . }}
+        </h2>
+    {{ end }}
+  </header>
+{{ else }}
+  <header>
+    {{ partial "site-navigation.html" . }}
+  </header>
+{{ end }}

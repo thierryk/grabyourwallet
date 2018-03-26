@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.grabyourwallet.org/actions_to_take/</loc>
+    <lastmod>2018-03-10T13:45:54-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.grabyourwallet.org/boycott_these_companies/</loc>
+    <lastmod>2018-03-10T13:45:54-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.grabyourwallet.org/media_coverage/</loc>
+    <lastmod>2018-03-10T13:45:54-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.grabyourwallet.org/other_ads_spotted_on_fox/</loc>
+    <lastmod>2018-03-10T13:45:54-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.grabyourwallet.org/other_companies_on_our_radar/</loc>
+    <lastmod>2018-03-10T13:45:54-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.grabyourwallet.org/safe_companies/</loc>
+    <lastmod>2018-03-10T13:45:54-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.grabyourwallet.org/</loc>
+    <lastmod>2018-03-10T13:45:54-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.grabyourwallet.org/which_companies_have_been_dropped/</loc>
+    <lastmod>2018-03-10T13:45:54-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.grabyourwallet.org/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.grabyourwallet.org/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

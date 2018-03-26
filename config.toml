@@ -1,0 +1,78 @@
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
+buildDrafts = true
+canonifyURLs = true
+
+
+baseURL = "https://www.grabyourwallet.org/"
+languageCode = "en-us"
+title = "#GrabYourWallet movement"
+theme = "ananke"
+sectionPagesMenu = "header"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+
+Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = ""
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = ""
+  linkedin = ""
+  recent_posts_number = 2
+
+[[menu.main]]
+  name = "Boycott"
+  title = "Boycott these Companies"
+  weight = 1
+  identifier = "boycott"
+  url = "/boycott_these_companies/"
+[[menu.main]]
+  name = "Actions"
+  title = "Actions to Take"
+  weight = 2
+  identifier = "actions"
+  url = "/actions_to_take/"
+[[menu.main]]
+  name = "Ads on Fox"
+  title = "Other Ads Spotted on Fox"
+  weight = 3
+  identifier = "adsonfox"
+  url = "/other_ads_spotted_on_fox/" 
+[[menu.main]]
+  name = "Media"
+  title = "Media Coverage of #GrabYourWallet"
+  weight = 4
+  identifier = "media"
+  url = "/media_coverage/"
+[[menu.main]]
+  name = "Companies That Have Been Dropped"
+  title = "Which Companies Have Been Dropped"
+  weight = 5
+  identifier = "whichcompanieshavebeendropped"
+  url = "/which_companies_have_been_dropped/"
+[[menu.main]]
+  name = "Companies On Our Radar"
+  title = "Other Companies On Our Radar"
+  weight = 6
+  identifier = "companiesonourradar"
+  url = "/other_companies_on_our_radar/"
+[[menu.main]]
+  name = "Safe Companies"
+  title = "Safe Companies"
+  weight = 7
+  identifier = "safecompanies"
+  url = "/safe_companies/"

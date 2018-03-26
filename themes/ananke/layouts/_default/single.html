@@ -1,0 +1,25 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+  <div class="">
+    <article class="TJK">
+      <header>
+        <!-- TJK
+        <p class="f6 b helvetica tracked">
+          {{ humanize .Section | upper  }}
+        </p>
+      -->
+        <h1 class="f1">
+          {{ .Title }}
+        </h1>
+      </header>
+      <div class="content">
+        {{ .Content }}
+      </div>
+    </article>
+    <!-- TJK
+    <aside class="ph3 mt2 mt6-ns">
+      {{ partial "menu-contextual.html" . }}
+    </aside>
+    -->
+  </div>
+{{ end }}
