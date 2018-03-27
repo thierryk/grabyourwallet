@@ -5,7 +5,7 @@ buildDrafts = true
 canonifyURLs = true
 
 
-baseURL = "https://www.grabyourwallet.org/"
+baseURL = "https://grabyourwallet.netlify.org/"
 languageCode = "en-us"
 title = "#GrabYourWallet movement"
 theme = "ananke"
