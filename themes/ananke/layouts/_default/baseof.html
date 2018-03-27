@@ -43,7 +43,7 @@
     {{ end }}
   </head>
 
-  <body id="{{ $.Param "id" | default "home"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
+  <body id="{{ $.Param "id" | default "home"}}" class="{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
 <!-- TJK: added wrapper -->
     <div class="wrapper">
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
