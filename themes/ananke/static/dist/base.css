@@ -177,3 +177,10 @@ blockquote {
   font-size: 18px;
   font-style: italic;
 }
+
+@media (max-width: 470px) {
+  blockquote {
+    border-left: 3px solid #999;
+    padding-left: 10px;
+  }
+}
