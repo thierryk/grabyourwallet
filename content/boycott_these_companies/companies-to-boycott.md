@@ -162,7 +162,7 @@ PR Contact (From Publicly Available Sources)
 : <allan.rojas@academy.com>
 
 Twitter Handle
-: [@Academy](](https://twitter.com/Academy)
+: [@Academy](https://twitter.com/Academy)
 
 Recommended Action to be Removed from This List
 : Stop selling guns to people under 21 years of age
