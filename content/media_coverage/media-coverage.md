@@ -72,7 +72,7 @@
 
 ### Financial Times
 
-* https://www.ft.com/content/b6e0839e-a063-11e6-891e-abe238dee8e2
+* [https://www.ft.com/[...]-abe238dee8e2](https://www.nytimes.com/aponline/2017/02/02/us/ap-us-nordstrom-ivanka-trump.html)
 
 ### Fortune
 
@@ -135,8 +135,8 @@
 * [Kawasaki to Stop Sponsoring ‘Apprentice’ Because of Trump Involvement](https://www.nytimes.com/2017/01/18/business/kawasaki-to-stop-sponsoring-apprentice-because-of-trump-involvement.html)
 * [Nordstrom Drops Ivanka Trump Brand From Its Stores](https://www.nytimes.com/2017/02/02/business/nordstrom-ivanka-trump.html)
 * [Trump Assails Nordstrom for ‘Unfairly’ Dropping His Daughter Ivanka’s Line](https://www.nytimes.com/2017/02/08/business/ivanka-trump-nordstrom-tj-maxx.html)
-* https://www.nytimes.com/aponline/2017/02/02/us/ap-us-nordstrom-ivanka-trump.html
-* https://www.nytimes.com/aponline/2017/02/02/us/politics/ap-us-trump-business-council.html
+* [https://www.nytimes.com/[...]/ap-us-nordstrom-ivanka-trump.html](https://www.nytimes.com/aponline/2017/02/02/us/ap-us-nordstrom-ivanka-trump.html)
+* [https://www.nytimes.com/[...]/ap-us-trump-business-council.html](https://www.nytimes.com/aponline/2017/02/02/us/politics/ap-us-trump-business-council.html)
 * [Early Signs Suggest Trump’s Actions Are Taking a Toll on Trump Brand](https://www.nytimes.com/2017/02/04/business/the-trump-brand.html)
 * [Ivanka Trump to End Fine Jewelry Line in Favor of Mass-Market One](https://www.nytimes.com/2017/03/13/business/ivanka-trump-jewelry.html)
 
