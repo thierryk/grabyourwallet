@@ -38,7 +38,7 @@ nav ul {flex-wrap:wrap;}
      height: 18.5em; /* for 7 links */
  }
  .custom-wrapper {
-     background-color: #333;
+     background-color: #323d3e;
      -webkit-font-smoothing: antialiased;
      overflow: hidden;
      -webkit-transition: height 0.5s;
@@ -128,7 +128,7 @@ h1 {
 }
 
 footer {
-     background-color: #333;
+     background-color:#323d3e;
      margin-top: 1em;
     padding: 1em;
  }
