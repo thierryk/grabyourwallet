@@ -412,7 +412,7 @@ PR Contact (From Publicly Available Sources)
 : <ir@bonton.com>
 
 Twitter Handle
-:[@Bonton](https://twitter.com/Bonton)
+: [@Bonton](https://twitter.com/Bonton)
 
 Recommended Action to be Removed from This List
 : Stop selling Trump brand goods
